@@ -24,6 +24,12 @@
     <ClCompile Include="functions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Structure_demo3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_demo4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h">

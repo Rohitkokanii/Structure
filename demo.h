@@ -7,3 +7,6 @@ struct student {
 	int id;
 	int marks[3];
 };
+
+void acceptData(struct student* s);
+void display(struct student* s);

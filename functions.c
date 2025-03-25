@@ -23,6 +23,6 @@ void display(struct student* s) {
 	printf("\nId : %d\n",s->id);
 	printf("\nMarks : ");
 	for (int i = 0; i < 3; i++)
-		printf("%d ",s->marks[i]);
+		printf("%d ",s->marks[i]);          
 	printf("\n\n");
 }
