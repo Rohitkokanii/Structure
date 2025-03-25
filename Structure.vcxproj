@@ -140,6 +140,10 @@
     <ClCompile Include="structure_demo4.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="structure_demo5.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="structure_demo6.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h" />

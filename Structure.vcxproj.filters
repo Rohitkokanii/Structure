@@ -30,6 +30,12 @@
     <ClCompile Include="structure_demo4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="structure_demo5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_demo6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h">
