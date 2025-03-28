@@ -36,6 +36,9 @@
     <ClCompile Include="structure_demo6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="linked_list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="demo.h">
